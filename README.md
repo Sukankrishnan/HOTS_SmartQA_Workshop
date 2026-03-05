@@ -67,20 +67,20 @@ HOTS_SmartQA_Workshop_Cohort6
 
 ## 📝 Session Notes
 
-| Week    | Topic                   | Notes                         |
-| ------- | ----------------------- | ----------------------------- |
-| Week 1  | Introduction to HOTS    | Not attended                  |
-| Week 2  | Analytical Thinking     | Not attended                  |
-| Week 3  | Problem Solving         |  |
-| Week 4  | TheCraftOfMakingThinkingVisible       | [View Notes](https://github.com/Sukankrishnan/HOTS_SmartQA_Workshop/blob/master/Week4_TheCraftOfMakingThinkingVisible) |
-| Week 5  | QA Thinking Models      | [View Notes](Week05/notes.md) |
-| Week 6  | Test Design Thinking    |  |
-| Week 7  | Questioning Techniques  | |
-| Week 8  | Real World QA Scenarios |  |
-| Week 9  | Thinking Frameworks     |  |
-| Week 10 | Decision Making         |  |
-| Week 11 | Advanced QA Thinking    | |
-| Week 12 | Workshop Summary        |  |
+| Week    | Topic                                                  | Notes                         |
+| ------- | -------------------------------------------------------| ----------------------------- |
+| Week 1  | Introduction to HOTS                                   | Not attended                  |
+| Week 2  | The Invisible Work                                     | Not attended                  |
+| Week 3  | Approximation, Complexity, and Trade-offs in Testing   |                               |
+| Week 4  | The Craft Of Making Thinking Visible                   | [View Notes](https://github.com/Sukankrishnan/HOTS_SmartQA_Workshop/blob/master/Week4_TheCraftOfMakingThinkingVisible) |
+| Week 5  | The Geometry of Understanding                          | [View Notes](Week05/notes.md) |
+| Week 6  |     |  |
+| Week 7  |   | |
+| Week 8  |  |  |
+| Week 9  |     |  |
+| Week 10 |          |  |
+| Week 11 |     | |
+| Week 12 |        |  |
 
 ---
 
