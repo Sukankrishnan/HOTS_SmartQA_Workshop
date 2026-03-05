@@ -69,8 +69,8 @@ HOTS_SmartQA_Workshop_Cohort6
 
 | Week    | Topic                   | Notes                         |
 | ------- | ----------------------- | ----------------------------- |
-| Week 1  | Introduction to HOTS    | [View Notes](Week01/notes.md) |
-| Week 2  | Analytical Thinking     | [View Notes](Week02/notes.md) |
+| Week 1  | Introduction to HOTS    | Not attended                  |
+| Week 2  | Analytical Thinking     | Not attended                  |
 | Week 3  | Problem Solving         | [View Notes](Week03/notes.md) |
 | Week 4  | Critical Thinking       | [View Notes](Week04/notes.md) |
 | Week 5  | QA Thinking Models      | [View Notes](Week05/notes.md) |
