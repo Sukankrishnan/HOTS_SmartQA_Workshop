@@ -69,8 +69,8 @@ HOTS_SmartQA_Workshop_Cohort6
 
 | Week    | Topic                                                  | Notes                         |
 | ------- | -------------------------------------------------------| ----------------------------- |
-| Week 1  | Introduction to HOTS                                   | Not attended                  |
-| Week 2  | The Invisible Work                                     | Not attended                  |
+| Week 1  | Introduction to HOTS                                   |                               |
+| Week 2  | The Invisible Work                                     |                               |
 | Week 3  | Approximation, Complexity, and Trade-offs in Testing   |                               |
 | Week 4  | The Craft Of Making Thinking Visible                   | [View Notes](https://github.com/Sukankrishnan/HOTS_SmartQA_Workshop/blob/master/Week4_TheCraftOfMakingThinkingVisible) |
 | Week 5  | The Geometry of Understanding                          | [View Notes](Week05/notes.md) |
