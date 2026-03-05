@@ -71,16 +71,16 @@ HOTS_SmartQA_Workshop_Cohort6
 | ------- | ----------------------- | ----------------------------- |
 | Week 1  | Introduction to HOTS    | Not attended                  |
 | Week 2  | Analytical Thinking     | Not attended                  |
-| Week 3  | Problem Solving         | [View Notes](Week03/notes.md) |
+| Week 3  | Problem Solving         |  |
 | Week 4  | Critical Thinking       | [View Notes](Week04/notes.md) |
 | Week 5  | QA Thinking Models      | [View Notes](Week05/notes.md) |
-| Week 6  | Test Design Thinking    | [View Notes](Week06/notes.md) |
-| Week 7  | Questioning Techniques  | [View Notes](Week07/notes.md) |
-| Week 8  | Real World QA Scenarios | [View Notes](Week08/notes.md) |
-| Week 9  | Thinking Frameworks     | [View Notes](Week09/notes.md) |
-| Week 10 | Decision Making         | [View Notes](Week10/notes.md) |
-| Week 11 | Advanced QA Thinking    | [View Notes](Week11/notes.md) |
-| Week 12 | Workshop Summary        | [View Notes](Week12/notes.md) |
+| Week 6  | Test Design Thinking    |  |
+| Week 7  | Questioning Techniques  | |
+| Week 8  | Real World QA Scenarios |  |
+| Week 9  | Thinking Frameworks     |  |
+| Week 10 | Decision Making         |  |
+| Week 11 | Advanced QA Thinking    | |
+| Week 12 | Workshop Summary        |  |
 
 ---
 
