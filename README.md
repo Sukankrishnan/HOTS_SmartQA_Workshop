@@ -72,7 +72,7 @@ HOTS_SmartQA_Workshop_Cohort6
 | Week 1  | Introduction to HOTS    | Not attended                  |
 | Week 2  | Analytical Thinking     | Not attended                  |
 | Week 3  | Problem Solving         |  |
-| Week 4  | Critical Thinking       | [View Notes](https://github.com/Sukankrishnan/HOTS_SmartQA_Workshop/blob/master/Week4_TheCraftOfMakingThinkingVisible) |
+| Week 4  | TheCraftOfMakingThinkingVisible       | [View Notes](https://github.com/Sukankrishnan/HOTS_SmartQA_Workshop/blob/master/Week4_TheCraftOfMakingThinkingVisible) |
 | Week 5  | QA Thinking Models      | [View Notes](Week05/notes.md) |
 | Week 6  | Test Design Thinking    |  |
 | Week 7  | Questioning Techniques  | |
