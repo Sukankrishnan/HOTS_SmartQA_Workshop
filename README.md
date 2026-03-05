@@ -1,5 +1,111 @@
-# HOTS_SmartQA_Workshop_Cohort6
+## 📚 Overview
 
-Higher Order Thinking Skills (HOTS) Cohort 6 conducted by Ashok Thiruvengadam. It's a 12 weeks workshop and happened on every Wednesday from 8:30pm to 10:00pm IST
+This repository contains my **session-wise learnings, notes, and reflections** from the **Higher Order Thinking Skills (HOTS) – SmartQA Workshop (Cohort 6)** conducted by **Ashok Thiruvengadam** and **Keshav Murthy**.
 
-I share my learnings and notes of each session.
+The workshop focuses on improving **analytical thinking, critical thinking, and problem-solving abilities** for **Software Testers and Quality Engineers**.
+
+Through this repository, I document the important **concepts, ideas, and insights** I gained during the workshop.
+
+---
+
+## 👨‍🏫 Workshop Details
+
+| Item           | Details                             |
+| -------------- | ----------------------------------- |
+| **Workshop**   | Higher Order Thinking Skills (HOTS) |
+| **Program**    | SmartQA                             |
+| **Cohort**     | 6                                   |
+| **Instructor** | Ashok Thiruvengadam                 |
+| **Duration**   | February 4 – April 22 (2026)               |
+| **Sessions**   | 12 Weeks (Every Wednesday)          |
+| **Time**       | 8:30 PM – 10:00 PM IST              |
+
+---
+
+## 🎯 Purpose of This Repository
+
+* Capture **session-wise notes**
+* Document **learning journey**
+* Improve **Higher Order Thinking Skills in QA**
+* Share insights with the **QA community**
+* Build a **knowledge base for future reference**
+
+---
+
+## 🗂 Repository Structure
+
+```
+HOTS_SmartQA_Workshop_Cohort6
+│
+├── Week01
+│   └── notes.md
+├── Week02
+│   └── notes.md
+├── Week03
+│   └── notes.md
+├── Week04
+│   └── notes.md
+├── Week05
+│   └── notes.md
+├── Week06
+│   └── notes.md
+├── Week07
+│   └── notes.md
+├── Week08
+│   └── notes.md
+├── Week09
+│   └── notes.md
+├── Week10
+│   └── notes.md
+├── Week11
+│   └── notes.md
+└── Week12
+    └── notes.md
+```
+
+---
+
+## 📝 Session Notes
+
+| Week    | Topic                   | Notes                         |
+| ------- | ----------------------- | ----------------------------- |
+| Week 1  | Introduction to HOTS    | [View Notes](Week01/notes.md) |
+| Week 2  | Analytical Thinking     | [View Notes](Week02/notes.md) |
+| Week 3  | Problem Solving         | [View Notes](Week03/notes.md) |
+| Week 4  | Critical Thinking       | [View Notes](Week04/notes.md) |
+| Week 5  | QA Thinking Models      | [View Notes](Week05/notes.md) |
+| Week 6  | Test Design Thinking    | [View Notes](Week06/notes.md) |
+| Week 7  | Questioning Techniques  | [View Notes](Week07/notes.md) |
+| Week 8  | Real World QA Scenarios | [View Notes](Week08/notes.md) |
+| Week 9  | Thinking Frameworks     | [View Notes](Week09/notes.md) |
+| Week 10 | Decision Making         | [View Notes](Week10/notes.md) |
+| Week 11 | Advanced QA Thinking    | [View Notes](Week11/notes.md) |
+| Week 12 | Workshop Summary        | [View Notes](Week12/notes.md) |
+
+---
+
+## 💡 Key Skills Covered
+
+* Higher Order Thinking Skills
+* Critical Thinking
+* Analytical Thinking
+* Problem Solving
+* QA Mindset
+* Asking Effective Questions
+* Real-world Testing Approaches
+
+---
+
+## ⚠️ Disclaimer
+
+These notes reflect **my personal understanding and interpretation** of the workshop sessions. They are shared for **learning and knowledge sharing purposes**.
+
+---
+
+## 🙏 Acknowledgement
+
+Special thanks to **Ashok Thiruvengadam** and **Keshav Murthy** for conducting this insightful workshop and helping QA professionals strengthen their **thinking and problem-solving abilities**.
+
+---
+
+
