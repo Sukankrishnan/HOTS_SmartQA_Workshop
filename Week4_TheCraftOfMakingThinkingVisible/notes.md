@@ -1,4 +1,4 @@
-**Topic: TheCraftOfMakingThinkingVisible**
+**Topic: The Craft Of Making Thinking Visible**
 
 Writing is the reflection of your thoughts. Note-taking does not have to be in a certain way. It could be writing, mindmapping, sketching, doodling, and any other form that helps you think. Each format will play a unique role when it comes to fulfilling your ideas to take form. There is no one right way of note taking that reflects your thinking pattern.
 
