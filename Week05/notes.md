@@ -16,4 +16,4 @@ Structure is not always a test plan document, test strategy, or test report. Som
  
 Testing becomes powerful when scattered observations turn into a structured patterns. It helps to move from executing checks to understanding the system.
 
-https://www.linkedin.com/posts/sukanya-santhanakrishnan_hotssmartqaworkshopweek05notesmd-at-activity-7435278029234331649-d6AM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA56vuYBMLsteZlZ5T0dzJyG_5VKux9rboA
+[LinkedIn Post](https://www.linkedin.com/posts/sukanya-santhanakrishnan_hotssmartqaworkshopweek05notesmd-at-activity-7435278029234331649-d6AM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA56vuYBMLsteZlZ5T0dzJyG_5VKux9rboA)
