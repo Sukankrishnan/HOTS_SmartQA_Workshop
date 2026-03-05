@@ -38,29 +38,19 @@ Through this repository, I document the important **concepts, ideas, and insight
 HOTS_SmartQA_Workshop_Cohort6
 │
 ├── Week01
-│   └── notes.md
 ├── Week02
-│   └── notes.md
 ├── Week03
-│   └── notes.md
 ├── Week04
 │   └── notes.md
 ├── Week05
 │   └── notes.md
 ├── Week06
-│   └── notes.md
 ├── Week07
-│   └── notes.md
 ├── Week08
-│   └── notes.md
 ├── Week09
-│   └── notes.md
 ├── Week10
-│   └── notes.md
 ├── Week11
-│   └── notes.md
 └── Week12
-    └── notes.md
 ```
 
 ---
@@ -81,18 +71,6 @@ HOTS_SmartQA_Workshop_Cohort6
 | Week 10 |          |  |
 | Week 11 |     | |
 | Week 12 |        |  |
-
----
-
-## 💡 Key Skills Covered
-
-* Higher Order Thinking Skills
-* Critical Thinking
-* Analytical Thinking
-* Problem Solving
-* QA Mindset
-* Asking Effective Questions
-* Real-world Testing Approaches
 
 ---
 
