@@ -13,4 +13,4 @@ A great document does not tell the people what to do. It should make them think 
 
 Last week's discussion on 'How to make our thinking visible' in the HOTS SmartQA session sparked our thinking and brought our thought process alive.
 
-https://www.linkedin.com/feed/update/urn:li:activity:7434717304325730304/
+[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7434717304325730304/)
