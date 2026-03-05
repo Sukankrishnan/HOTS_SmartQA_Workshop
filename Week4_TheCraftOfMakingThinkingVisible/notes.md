@@ -1,3 +1,5 @@
+**Topic: TheCraftOfMakingThinkingVisible**
+
 Writing is the reflection of your thoughts. Note-taking does not have to be in a certain way. It could be writing, mindmapping, sketching, doodling, and any other form that helps you think. Each format will play a unique role when it comes to fulfilling your ideas to take form. There is no one right way of note taking that reflects your thinking pattern.
 
 Sometimes, a few questions and arrows in your notebook make more sense than a 20-page document. When your mind is busy switching between analysis, reasoning, techniques, and processes, especially during testing, it's hard to create a well structured document.
