@@ -15,7 +15,7 @@ Through this repository, I document the important **concepts, ideas, and insight
 | **Workshop**   | Higher Order Thinking Skills (HOTS) |
 | **Program**    | SmartQA                             |
 | **Cohort**     | 6                                   |
-| **Instructor** | Ashok Thiruvengadam                 |
+| **Instructor** | [Ashok Thiruvengadam](https://www.linkedin.com/in/ashokstag/)   and [Keshav Murthy](https://www.linkedin.com/in/keshava-murthy-k-n-a623034/)              |
 | **Duration**   | February 4 – April 22 (2026)               |
 | **Sessions**   | 12 Weeks (Every Wednesday)          |
 | **Time**       | 8:30 PM – 10:00 PM IST              |
